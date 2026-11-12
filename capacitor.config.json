@@ -1,0 +1,14 @@
+{
+  "appId": "com.mattcrowler.discy",
+  "appName": "Discy",
+  "webDir": "mobile",
+  "bundledWebRuntime": false,
+  "server": {
+    "cleartext": true,
+    "allowNavigation": ["*"]
+  },
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#0b0b0f"
+  }
+}
